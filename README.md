@@ -16,7 +16,43 @@ This analysis is carried out in order to provide us with some insights about som
 
 ## Results
 
----
-
 ### Stock Analysis
    
+#### ***2017***
+
+  - It seems like a great day for the stocks market. Almost all stocks price grew over the year, except one.
+  - The market average growth among targeted stocks were more than 67%, which is very interesting.
+  - First 2017 was a perfect time to enter the market.
+  
+  ![](/Resources/2017-StocksStatus.PNG) 
+  
+#### ***2018***
+
+  - Despite year 2017, 2018 seems not a really great time to enter the market.
+  - Most stocks experienced a major loss during 2018
+  
+  ![](/Resources/2018-StocksStatus.PNG) 
+  
+#### Comparison
+
+  - Obviously 2017 was a fruitfull year, and 2018 was a year full of losses among the targeted stocks.
+  - Total volume of trades in 2018 is a little more than 2017
+
+#### Best Stock to invest in
+
+  - Since we need to choose best options among these 12 stocks, we need to point out the stocks that experienced two positive years in row.
+  - Out best options are ***ENPH*** and ***RUN***
+  
+  ![](/Resources/2017-StocksStatus.PNG)   ![](/Resources/2018-StocksStatus.PNG) 
+  
+#### Time-Efficiency Comparison
+
+We have refacored the code we wrote in the first place. This was achievable since a nested for loop (contains another for loop) has changed to a unnested for loops. This change is beneficial by decreasing the running speed of our Macros.
+
+As illustrated below, the execution time has decreaced by nearly **83%**.
+
+![](/Resources/2017-BeforeRefactoring.PNG)![](/Resources/VBA_Challenge_2017.PNG)
+
+![](/Resources/2018-BeforeRefactoring.PNG)![](/Resources/VBA_Challenge_2018.PNG)
+
+***This shows that the Refactoring was truly resultful.***
