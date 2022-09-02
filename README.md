@@ -38,7 +38,7 @@ This analysis is carried out in order to provide us with some insights about som
   - Obviously 2017 was a fruitfull year, and 2018 was a year full of losses among the targeted stocks.
   - Total volume of trades in 2018 is a little more than 2017
 
-#### Best Stock to invest in
+#### Best Stocks to invest in
 
   - Since we need to choose best options among these 12 stocks, we need to point out the stocks that experienced two positive years in row.
   - Out best options are ***ENPH*** and ***RUN***
