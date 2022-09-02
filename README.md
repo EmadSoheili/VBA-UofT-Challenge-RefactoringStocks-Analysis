@@ -25,18 +25,24 @@ This analysis is carried out in order to provide us with some insights about som
   - First 2017 was a perfect time to enter the market.
   
   ![](/Resources/2017-StocksStatus.PNG) 
-  
+
+---
+
 #### ***2018***
 
   - Despite year 2017, 2018 seems not a really great time to enter the market.
   - Most stocks experienced a major loss during 2018
   
   ![](/Resources/2018-StocksStatus.PNG) 
-  
+
+---
+
 #### Comparison
 
   - Obviously 2017 was a fruitfull year, and 2018 was a year full of losses among the targeted stocks.
   - Total volume of trades in 2018 is a little more than 2017
+
+---
 
 #### Best Stocks to invest in
 
@@ -44,7 +50,9 @@ This analysis is carried out in order to provide us with some insights about som
   - Out best options are ***ENPH*** and ***RUN***
   
   ![](/Resources/2017-StocksStatus.PNG)   ![](/Resources/2018-StocksStatus.PNG) 
-  
+
+---
+
 #### Time-Efficiency Comparison
 
 We have refacored the code we wrote in the first place. This was achievable since a nested for loop (contains another for loop) has changed to a unnested for loops. This change is beneficial by decreasing the running speed of our Macros.
@@ -56,3 +64,29 @@ As illustrated below, the execution time has decreaced by nearly **83%**.
 ![](/Resources/2018-BeforeRefactoring.PNG)![](/Resources/VBA_Challenge_2018.PNG)
 
 ***This shows that the Refactoring was truly resultful.***
+
+---
+
+## Summary
+
+### Refactoring Benefits in General
+
+  - Improves code desig and cosmetics
+  - Make the code more readable and easier to understand
+  - Benficial in terms of finding bugs
+  - Faster execution
+  - Make the developer go through the code again, might result in finding a better solution or shortcut
+  
+---
+  
+### Pros and Cons of the Original and Refactored Versions
+  
+  - We have a shorter and more organized code, in comparison with the original version
+  - The refactored code has no nested loop
+  - The code is definitely more readable thus understandable, thus we have more chance of finding bugs easily
+  - The new code runs 83% faster than the previous one. Great achievement, especially in very large datasets
+  - I had to review the code from scratch, which can be helpful for restructuralizing the code
+  
+  ---
+  
+  ***The End***
